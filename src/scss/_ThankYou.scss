@@ -1,0 +1,38 @@
+@use 'variables';
+
+.thankyou {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.thankyou__svg-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 0.5rem;
+}
+
+.thankyou__you-selected-container {
+  display: flex;
+  justify-content: center;
+  color: variables.$btn-bg;
+  background-color: hsl(209, 17%, 24%);
+  border-radius: 100px;
+  padding-inline: 1rem;
+  padding-block: 0.3rem;
+}
+
+.thankyou__text-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  justify-content: center;
+  text-align: center;
+  color: variables.$clr-text;
+  font-size: variables.$fs-p;
+}
+
+.thankyou__text-container h2 {
+  color: #fff;
+  font-weight: variables.$fw-heading;
+}
