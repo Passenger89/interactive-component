@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github - solution](https://github.com/Passenger89/interactive-component)
-- Live Site URL: [Netlify - live](https://your-live-site-url.com)
+- Live Site URL: [Netlify - live](https://feminteractivecomponent.netlify.app)
 
 ## My process
 
@@ -46,4 +46,4 @@ Users should be able to:
 ## Author
 
 - Website - [William Nichlson](https://williamnicholson.netlify.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Passenger89)
+- Frontend Mentor - [@Passenger89](https://www.frontendmentor.io/profile/Passenger89)
