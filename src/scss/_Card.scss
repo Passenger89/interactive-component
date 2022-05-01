@@ -25,6 +25,12 @@ body {
   overflow: hidden;
 }
 
+.header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
 .card__svg {
   margin-bottom: 1rem;
 }
