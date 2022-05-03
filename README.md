@@ -45,5 +45,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [William Nichlson](https://williamnicholson.netlify.app)
+- Website - [William Nicholson](https://williamnicholson.netlify.app)
 - Frontend Mentor - [@Passenger89](https://www.frontendmentor.io/profile/Passenger89)
